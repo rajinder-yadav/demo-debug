@@ -5,6 +5,8 @@ This is an Ionic 7 Angular 17 web app.
 To build and run this app, from the terminal type:
 
 ```sh
+npm i
+
 npm start
 ```
 
