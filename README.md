@@ -10,6 +10,8 @@ npm i
 npm start
 ```
 
+Open browser : http://localhost:4200
+
 To test debugging, open the file "app.component.ts" and add a breakpoint on the console.log statement.
 
 Next try to get debug working, without having to type "npm start" in a terminal first.
